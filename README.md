@@ -45,5 +45,5 @@ web-service
 data-mining
 -----------
 
-### H3 graph-clustering
+### graph-clustering
 * spectral coclustering bipartite graphs
