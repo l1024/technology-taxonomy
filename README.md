@@ -3,47 +3,47 @@ technology-taxonomy
 
 unclassified
 ------------
-deremel
-elki
+* deremel
+* elki
 
 plain storage
 -------------
-parquet
-orc
+* parquet
+* orc
 
 db storage
 ----------
-cassandra
-hbase
+* cassandra
+* hbase
 
 processing
 ----------
-hadoop
-spark
-storm
+* hadoop
+* spark
+* storm
 
 realtime query
 --------------
-shark
-blinkdb
-presto
+* shark
+* blinkdb
+* presto
 
 data-mining
 -----------
-mahout
-weku
+* mahout
+* weku
 
 visualization
 -------------
-d3.js
+* d3.js
 
 web-service
 -----------
-play-framework
+* play-framework
 
 
 data-mining
 -----------
 
 ### H3 graph-clustering
-spectral coclustering bipartite graphs
+* spectral coclustering bipartite graphs
